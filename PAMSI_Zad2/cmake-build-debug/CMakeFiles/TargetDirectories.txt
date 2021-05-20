@@ -1,0 +1,3 @@
+C:/Users/Komputer/Desktop/PAMSI_Zad2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Komputer/Desktop/PAMSI_Zad2/cmake-build-debug/CMakeFiles/PAMSI_sortowanie.dir
+C:/Users/Komputer/Desktop/PAMSI_Zad2/cmake-build-debug/CMakeFiles/edit_cache.dir
